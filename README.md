@@ -109,10 +109,12 @@ module.exports = {
 2. ヘッダーは、[header.md](./doc/design/header.md) を参照。  
   
 3. 投稿フォーム・投稿エリアは、[post.md](./doc/design/post.md) を参照。  
+  
+### 実装: 状態管理  
+1. Vuexを使った状態管理は、[store.md](./doc/vuex/store.md) を参照。  
 
 
 参考)  
 [https://qiita.com/redshoga/items/da5c0e247e0df314a257](https://qiita.com/redshoga/items/da5c0e247e0df314a257)  
   
-[https://www.non-standardworld.co.jp/nuxt-js-firebase/20548/]
-(https://www.non-standardworld.co.jp/nuxt-js-firebase/20548/)  
+[https://www.non-standardworld.co.jp/nuxt-js-firebase/20548/](https://www.non-standardworld.co.jp/nuxt-js-firebase/20548/)  

@@ -27,7 +27,6 @@
 import firebase from 'firebase'
 
 export default {
-  name: 'Login',
   asyncData(){
     return {
       user: null,
@@ -76,7 +75,6 @@ export default {
 import firebase from 'firebase'
 
 export default {
-  name: 'Login',
   asyncData(){
     return {
       user: null,
