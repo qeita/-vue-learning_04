@@ -68,6 +68,7 @@ export default {
       <p>ログイン中です</p>
     </div>
     <button @click="googleSignIn">Google認証でログイン</button>
+    <button @click="logOut">ログアウト</button>
   </div>    
 </template>
 

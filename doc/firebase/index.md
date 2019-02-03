@@ -176,7 +176,6 @@ export default {
 ```html  
 <template>
   <div>
-    <nuxt-link :to="`/users/${uid}`">マイページ</nuxt-link>
     <textarea v-model="comment"></textarea>
     <button @click="addComment">投稿</button>
   </div>
