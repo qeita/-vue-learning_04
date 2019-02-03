@@ -303,6 +303,8 @@ export default {
 </template>
 
 <script>
+import firebase from 'firebase'
+
 export default {
   methods: {
     // Google認証によるログイン ※初回は許可するか確認画面が表示
